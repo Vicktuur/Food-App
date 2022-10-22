@@ -1,0 +1,78 @@
+.main {
+    display: flex;
+    justify-content: space-around;
+}
+.lilies {
+  width: 57.48px;
+  height: 67px;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding-bottom: 60px;
+}
+.logo p {
+  font-weight: 700;
+  font-size: 33px;
+  line-height: 50px;
+  letter-spacing: 0.05em;
+  color: #00302E;
+}
+.menu {
+  display: flex;
+  flex-direction: column;
+  padding: 80px 70px 80px 70px;
+  background: #FBFBFB;
+  border-radius: 20px;
+  height: 100vh;
+  width: 20%;
+  position: fixed;
+  left: 0;
+}
+.menu ul {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  list-style-type: none;
+}
+.menu ul img {
+  margin-right: 10px;
+}
+.menu ul li:hover {
+  background: #EFEFEF;
+  border-radius: 12px;
+  padding: 5px;
+}
+.foodlist {
+  width: 70%;
+  margin-left: 25%;
+  overflow-x: auto;
+}
+.greeting{
+  display: flex;
+  justify-content: space-between;
+  margin: 50px 20px;
+}
+.heading {
+  width: 358px;
+  height: 33px;
+  font-weight: 600;
+  font-size: 23px;
+  line-height: 33px;
+  color: #00302E;
+}
+.question {
+  width: 309px;
+  height: 33px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 33px;
+  color: rgba(0, 0, 0, 0.69);
+}
+.dish-list {
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 50px;
+  margin-bottom: 30px;
+}

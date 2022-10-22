@@ -1,0 +1,322 @@
+.Homepage {
+    background: #00302E;
+    position: relative;
+    width: 1440px;
+    height: 2500px;
+    font-family: 'Poppins', sans-serif;
+  }
+  .lily-image img{
+    position: absolute;
+    width: 57.48px;
+    height: 67px;
+    left: 98px;
+    top: 59px;
+  }
+  .lily-image p{
+    position: absolute;
+    width: 92px;
+    height: 46px;
+    left: 178px;
+    top: 73px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    color: #FFFFFF;
+  }
+  .nav-bar .home{
+    position: absolute;
+    width: 63px;
+    height: 33px;
+    left: 990px;
+    top: 80px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 33px;
+    color: #FBDDBB;
+    text-decoration: none;
+  }
+  .nav-bar .login{
+    position: absolute;
+    width: 57px;
+    height: 33px;
+    left: 1098px;
+    top: 80px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 33px;
+    color: rgba(255, 255, 255, 0.87);
+    text-decoration: none;
+  }
+  .nav-bar .signup{
+    position:absolute;
+    width: 66px;
+    height: 33px;
+    left: 40px;
+    top: 10px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 33px;
+    color: #00302E;
+    text-decoration: none;
+  }
+  .nav-bar .signup-button{
+    position: absolute;
+    width: 142px;
+    height: 53px;
+    left: 1200px;
+    top: 73px;
+    background: #E2B887;
+    border-radius: 7px;
+  }
+  .nav-bar .home:hover, .nav-bar .login:hover, .nav-bar .signup:hover{
+    color: rgb(3, 134, 126);
+  }
+  .section1 h3{
+    position: absolute;
+    width: 650px;
+    height: 167px;
+    left: 98px;
+    top: 361px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 77px;
+    color: #FFFFFF;
+  }
+  .section1 p{
+    position: absolute;
+    width: 609px;
+    height: 77px;
+    left: 98px;
+    top: 549px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    color: rgba(255, 255, 255, 0.74);
+  }
+  .section1 .playstore{
+    position: absolute;
+    width: 135px;
+    height: 40px;
+    left: 100px;
+    top: 670px;
+  }
+  .section1 .appstore{
+    position: absolute;
+    width: 135px;
+    height: 40px;
+    left: 250px;
+    top: 670px;
+  }
+  .food1{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 904px;
+    top: 287px;
+    border-radius: 400px;
+  }
+  .section2 h3{
+    position: absolute;
+    width: 463px;
+    height: 33px;
+    left: 489px;
+    top: 867px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 33px;
+    color: rgba(255, 255, 255, 0.87);
+  }
+  .section2 .p1 {
+    position: absolute;
+    width: 609px;
+    height: 77px;
+    left: 423px;
+    top: 935px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.83);
+  }
+  .food2 img{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 131px;
+    top: 1108px;
+    border-radius: 400px;
+  }
+  .food2 h3 {
+    position: absolute;
+    width: 177px;
+    height: 33px;
+    left: 186px;
+    top: 1393px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 33px;
+    text-align: center;
+    color: #FBDDBB;
+  }
+  .food2 p{
+    position: absolute;
+    width: 288px;
+    height: 66px;
+    left: 132px;
+    top: 1440px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.83);
+  }
+  .food3 img{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 612px;
+    top: 1108px;
+    border-radius: 400px;
+  }
+  .food3 h3 {
+    position: absolute;
+    width: 144px;
+    height: 33px;
+    left: 663px;
+    top: 1393px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 33px;
+    text-align: center;
+    color: #FBDDBB;
+  }
+  .food3 p {
+    position: absolute;
+    width: 288px;
+    height: 66px;
+    left: 593px;
+    top: 1440px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.83);
+  }
+  .food4 img {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 1094px;
+    top: 1108px;
+    border-radius: 400px;
+  }
+  .food4 h3 {
+    position: absolute;
+    width: 168px;
+    height: 33px;
+    left: 1133px;
+    top: 1393px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 33px;
+    text-align: center;
+    color: #FBDDBB;
+  }
+  .food4 p {
+    position: absolute;
+    width: 288px;
+    height: 66px;
+    left: 1075px;
+    top: 1440px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.83);
+  }
+  .update h3 {
+    position: absolute;
+    width: 549px;
+    height: 33px;
+    left: 128px;
+    top: 1775px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 33px;
+    color: #FBDDBB;
+  }
+  .update p {
+    position: absolute;
+    width: 531px;
+    height: 66px;
+    left: 126px;
+    top: 1840px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    color: rgba(255, 255, 255, 0.95);
+  }
+  form .input {
+    position: absolute;
+    width: 299px;
+    height: 51px;
+    left: 841px;
+    top: 1822px;
+    background: #F7F7F7;
+    border: 1px solid #B3B3B3;
+    border-radius: 5px;
+    padding-left: 20px;
+  }
+  form .button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 40px;
+    gap: 10px;
+    position: absolute;
+    width: 182px;
+    height: 51px;
+    left: 1148px;
+    top: 1822px;
+    background: #FBDDBB;
+    border-radius: 5px;
+  }
+  form .button span {
+    width: 102px;
+    height: 21px;
+    font-family: 'Rubik', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #00302E;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+  }
+  .foodv {
+    position: absolute;
+    width: 1440px;
+    height: 393px;
+    left: 0px;
+    top: 2107px;
+    background: #0B0D17;
+  }
