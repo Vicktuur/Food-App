@@ -82,7 +82,7 @@ input {
 const Login = () => {
 
   const [loginData, setLoginData] = useState({
-    name: '',
+    email: '',
     password: ''
   })
 
@@ -98,7 +98,7 @@ const Login = () => {
       setpasswordType('text')
       return
     }
-    setpasswordType ("text")
+    setpasswordType ("password")
   }
 
   const handleChange = (e) => {
