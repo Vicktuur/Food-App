@@ -63,37 +63,3 @@ const Dashboard = () => {
 }
 
 export default Dashboard
-
-// import React, {useState} from 'react'
-// import styled from 'styled-components'
-
-// const Login = () => {
-
-//   const [counter, setCounter] = useState(0)
-
-//   const Button = styled.button`
-//     padding: 5px;
-//     margin: 0.5em;
-//   `
-
-//   const IncrementCounter = () => {
-//     setCounter(counter+1)
-//   }
-
-//   const DecrementCounter = () => {
-//     setCounter(counter-1)
-//   }
-
-//   return (
-//     <div>
-//       Login
-
-//       <h1>{counter}</h1>
-//       <Button onClick = {DecrementCounter}>Subtract</Button>
-//       <Button onClick = {IncrementCounter}>Add</Button>
-//     </div>
-    
-//   )
-// }
-
-// export default Login
